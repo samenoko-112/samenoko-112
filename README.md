@@ -23,3 +23,29 @@
 ---
 
 日本語も怪しいけど日本人ですよ!!
+
+# Hello! 🌍 (English)
+
+---
+
+## 🌟 Self-Introduction
+- 🎓 Currently attending **S High School** (17 years old)
+- 🐍 Can write a little bit of **Python**.
+- 💭 Communication can be challenging.
+
+---
+
+## 🎮 Hobbies
+- 🎼 Project Sekai
+- 📱 Smartphones and gadgets
+- 🎧 ASMR
+
+---
+
+## 💻 Development Environment
+- Desktop (custom-built, Win10Pro)
+- M1 MacBookAir
+
+---
+
+My Japanese might be a bit shaky, but I am Japanese!!
