@@ -1,53 +1,29 @@
-# こんにちは！ 🌍
+# Hello Sekai!!
 
 ![](https://count.getloli.com/@samenoko-112?name=samenoko-112&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
----
+## 👨🏻‍💻
+* Python
+* HTML
 
-## 🌟 自己紹介
-- 🎓 **S高等学校**在学中 (17歳)
-- 🐍 **Python**が少しだけ書けます。
-- 💭 やりとりが難航します。
+## 🗣️
+* **Japanese**
 
----
+## 🩷
+* VOCALOID
+* PJSEKAI
+* ASMR
+* gadget
 
-## 🎮 趣味
-- 🎼 プロセカ
-- 📱 スマホとかガジェット
-- 🎧 ASMR
+## Service
+* [NeCd](https://github.com/samenoko-112/NeCd)  
+  🇯🇵 yt-dlpGUIの後継です。yt-dlpGUIの今後の更新は行われません  
+  🇬🇧 This is the successor to yt-dlpGUI. There will be no further updates to yt-dlpGUI.
 
----
+* [YTMDOWN](https://github.com/samenoko-112/YTMDOWN)  
+  🇯🇵 音楽のダウンロードに機能を絞ったソフトウェアです。  
+  🇬🇧 Software focused on downloading music.
 
-## 💻 開発環境
-- デスクトップ(自作, Win10Pro)
-- M1 MacBookAir
-
----
-
-日本語も怪しいけど日本人ですよ!!
-
-# Hello! 🌍 (English)
-
----
-
-## 🌟 Self-Introduction
-- 🎓 Currently attending **S High School** (17 years old)
-- 🐍 Can write a little bit of **Python**.
-- 💭 Communication can be challenging.
-
----
-
-## 🎮 Hobbies
-- 🎼 Project Sekai
-- 📱 Smartphones and gadgets
-- 🎧 ASMR
-
----
-
-## 💻 Development Environment
-- Desktop (custom-built, Win10Pro)
-- M1 MacBookAir
-
----
-
-My Japanese might be a bit shaky, but I am Japanese!!
+* [most-replay](https://mostreplay.samenoko.work/)  
+  YouTube動画の最もリプレイされたシーンを抽出するツールです。  
+  WEBから使えます。内部APIもデベロッパーモードでちょちょっと解析して使えますよ^^
