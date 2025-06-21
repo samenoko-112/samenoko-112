@@ -2,14 +2,16 @@
 
 ![](https://count.getloli.com/@samenoko-112?name=samenoko-112&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-## 👨🏻‍💻
-* Python
-* HTML
+## 👨🏻‍💻Can write
+[![Can write](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
-## 🗣️
+## 💻In use
+[![Software](https://skillicons.dev/icons?i=apple,arch,cloudflare,debian)](https://skillicons.dev)
+
+## 🗣️Can speak
 * **Japanese**
 
-## 🩷
+## 🩷My favorite
 * VOCALOID
 * PJSEKAI
 * ASMR
